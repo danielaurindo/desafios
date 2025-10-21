@@ -1,4 +1,4 @@
-package com.example.desafios.interfaces;
+package com.example.desafios.interfaces.operadoreslogicos;
 
 public interface DesafiosInterface {
 
